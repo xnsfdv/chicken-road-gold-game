@@ -387,7 +387,7 @@ export class Chicken extends Container {
       gitHubBtn.cursor = "pointer";
       gitHubBtn.on("pointerdown", () => {
         mraidSystem.openStore(
-          "https://github.com/anomaex/chicken-road-gold-game",
+          "https://github.com/xnsfdv/chicken-road-gold-game",
         );
       });
       containerSprite.addChild(gitHubBtn);
