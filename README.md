@@ -1,6 +1,6 @@
 # Chicken Road Gold game
 
-[https://anomaex.github.io/chicken-road-gold-game/](https://anomaex.github.io/chicken-road-gold-game/)
+[https://xnsfdv.github.io/chicken-road-gold-game/](https://xnsfdv.github.io/chicken-road-gold-game/)
 
 Before `npm run build` not forget: `npm run lint -- --fix`
 
